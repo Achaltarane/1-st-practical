@@ -1,0 +1,9 @@
+<html>||CS24065
+<title>PRELAB</title>
+<body>
+<h1>Introductiond</h1>
+<p>Hello!My self self Achal Tarane .<br> I am currently in my first year of studies and actively preparing for GATE 2028. <br>My passion lies in programming, particularly Advanced C, <br>and I enjoy solving complex coding challenges.<br> I believe that a strong foundation in programming is essential for excelling in the tech industry, <br>so I am constantly working on improving my skills.
+
+Apart from academics, I have a keen interest in personal styling and fashion.<br> As someone with a short height, I love exploring dressing techniques that enhance appearance and confidence.<br> I believe that both knowledge and presentation play an important role in creating a strong impression.</p>
+</body>
+</htm>
